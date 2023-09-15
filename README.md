@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/main.css">
-    <title>Fargys</title>
-</head>
-<body>
-    <div class="pupich"><a href="https://vk.com/taniilgetrov">
-</body>
-</html>
-<div class="iaga">
-    <div class="row row--stars">
-      <p class="ht">
-        <span class="pupich">Даниил Петров</span>
+
       </p>
     </div>
     <html>
